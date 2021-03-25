@@ -17,7 +17,7 @@ The congress official LaTeX templates (Portuguese, Spanish, and English) are sim
 Ms. Word templates are also being constructed and soon will be also available.
 
 > The basic text (in brazilian portuguese) as well the LaTeX template
-> were created by Prof. Will D'Andrea Fonseca.
+> were developed by Prof. Will D'Andrea Fonseca.
 
 
 ##   :books: Modelos oficiais para o congresso FIA 2020 
@@ -49,6 +49,6 @@ Los modelos oficiales del congreso (portugués, español e inglés) están dispo
  - Versión en español: WIP [**work in progress**]
 
 
-También se están creando plantillas de MS Word y pronto estarán disponibles.
+También se están creando instrucciones de MS Word y pronto estarán disponibles.
 
-> El texto básico (en portugués brasileño) y la plantilla LaTeX fueron desarrollados por el Prof. Will D'Andrea Fonseca.
+> El texto básico (en portugués brasileño) y las instrucciones LaTeX fueron desarrollados por el Prof. Will D'Andrea Fonseca.
