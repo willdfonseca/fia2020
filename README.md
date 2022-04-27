@@ -13,8 +13,8 @@ The congress official LaTeX templates (Portuguese, Spanish, and English) are sim
  - Portuguese version: [Overleaf](https://www.overleaf.com/read/rnfjxkknksnd)
  - English version: [Overleaf](https://www.overleaf.com/read/hgryywpgmxdx)
  - Spanish version: [Overleaf](https://www.overleaf.com/read/rszcxtwshzfr)
-
-Ms Word templates are also being constructed and soon will be also available.
+ 
+ - Word template version: [GitHub](https://github.com/willdfonseca/fia2020/tree/main/Docx%20(Word))
 
 > The basic text (in brazilian portuguese) as well the LaTeX template
 > were developed by Prof. Will D'Andrea Fonseca.
@@ -32,8 +32,8 @@ Os modelos oficiais do congresso  (português, espanhol e inglês) estão simult
  - Versão em inglês: [Overleaf](https://www.overleaf.com/read/hgryywpgmxdx)
  - Versão em espanhol: [Overleaf](https://www.overleaf.com/read/rszcxtwshzfr)
 
-Os templates de Ms Word também estão sendo construídos e logo estarão disponíveis.
-
+ - Word template: [GitHub](https://github.com/willdfonseca/fia2020/tree/main/Docx%20(Word))
+ 
 > O texto básico (em português brasileiro) assim como o template de LaTeX 
 > foram desenvolvidos pelo Prof. Will D'Andrea Fonseca.
 
@@ -48,7 +48,7 @@ Los modelos oficiales del congreso (portugués, español e inglés) están dispo
  - Versión en inglés: [Overleaf](https://www.overleaf.com/read/hgryywpgmxdx)
  - Versión en español: [Overleaf](https://www.overleaf.com/read/rszcxtwshzfr)
 
+ - Word template: [GitHub](https://github.com/willdfonseca/fia2020/tree/main/Docx%20(Word))
 
-También se están creando instrucciones de Ms Word y pronto estarán disponibles.
 
 > El texto básico (en portugués brasileño) y las instrucciones LaTeX fueron desarrollados por el Prof. Will D'Andrea Fonseca.
